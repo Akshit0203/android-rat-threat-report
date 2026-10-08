@@ -1,0 +1,27 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Obsidian vault metadata (keep this repo clean of vault internals)
+.obsidian/
+.trash/
+
+# Never commit actual samples, payloads, or binaries to this educational repo
+*.apk
+*.dex
+*.jar
+*.exe
+*.bin
+samples/
+payloads/
+
+# Archives that might contain binaries
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz

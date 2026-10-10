@@ -36,6 +36,12 @@ Mobile RATs are one of the fastest-growing threats to individuals and enterprise
 - Translate "what the attacker does" into **"what the defender should look for."**
 - Provide concrete **IOCs, detection ideas, and mitigations** for users, enterprises, and app developers.
 
+## Demo
+
+<video src="https://github.com/user-attachments/assets/021469e3-a87b-45f4-830c-1025d3283b03" width="100%" controls></video>
+
+<br>
+
 ## Capability evidence (operator console)
 
 Demonstration Video : [Link](https://drive.google.com/file/d/1CcIvMLAGM4ZPZvaB-Lavje6tF01EQTGq/view?usp=sharing)

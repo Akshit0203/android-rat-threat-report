@@ -41,7 +41,6 @@ Mobile RATs are one of the fastest-growing threats to individuals and enterprise
 <video src="https://github.com/user-attachments/assets/021469e3-a87b-45f4-830c-1025d3283b03" width="100%" controls></video>
 
 <br>
-
 ## Capability evidence (operator console)
 
 The figures below are annotated analysis of the CraxsRAT **operator console** — shown to illustrate *what this class of threat can do to a victim* so defenders can recognize and counter it. Full analysis in [`docs/03-capability-analysis.md`](docs/03-capability-analysis.md).
